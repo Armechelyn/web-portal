@@ -5,6 +5,7 @@
   <script src="assets/js/common.js"></script>
   <script src="assets/js/register.js"></script>
   <script src="assets/lib/jquery/js/jquery.min.js"></script>
+  <link rel="stylesheet" href="../vendor/twbs/bootstrap/dist/css/bootstrap.min.css">
 </head>
 <body class="login-page">
   <section class="h-100">
