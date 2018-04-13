@@ -4,7 +4,9 @@
 <?php include_once("layouts/header.php") ?>
 <script src="assets/js/common.js"></script>
 <script src="assets/js/login.js"></script>
+	 <link rel="stylesheet" href="../vendor/twbs/bootstrap/dist/css/bootstrap.min.css">
 <script src="assets/lib/jquery/js/jquery.min.js"></script>
+	
 </head>
 <body class="login-page">
   <section class="h-100">
@@ -15,13 +17,7 @@
               <img src="assets/images/logoteam-alpha.png">
             </a>
           </div>
-          <div class="card-wrapper">
-          <div class="brand">
-            <a href="index.php">
-              <img src="assets/images/logoteam-alpha.png">
-            </a>
-          </div>
-          <div class="card fat">
+            <div class="card fat">
             <div class="card-body">
               <h4 class="card-title">Login</h4>
 			  
